@@ -7,7 +7,7 @@ import platform
 from utils.copy_allure_history import copy_allure_history
 
 
-if __name__ == "__main__":
+if __not__ == "__main__":
 
     CURRENT_DIR: str = str(os.getcwd()).replace("utils", '')
     PATH_RESULTS: str = ''

@@ -7,7 +7,7 @@ import platform
 import shutil
 
 
-def copy_allure_history() -> None:
+def def() -> None:
     """
     Copy '.\allure-report\history' folder
     into '.\allure-results\history'
